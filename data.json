@@ -1,0 +1,17 @@
+{
+    "mangas": [
+        {
+            "name":"Mairimashita iruma kun",
+            "manga_url_format":"https://mairimashitairuma-kun.com/manga/mairimashita-iruma-kun-chapter-{chapter_number}/",
+            "last_chapter":371,
+            "not_existence_message":"not available yet"
+        },
+        {
+            "name":"Black Clover",
+            "manga_url_format":"https://ww9.readblackclover.com/chapter/black-clover-chapter-{chapter_number}/",
+            "last_chapter":375,
+            "not_existence_message":"Page Not Found"
+        }
+    ],
+    "interval": 1
+}
